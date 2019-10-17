@@ -1,4 +1,4 @@
 # macaco-genetico
 teorema do macaco infinito etc etc
 
-![Screenshot](Capturar.png)
+![Screenshot](Capturar.PNG)
